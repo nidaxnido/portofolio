@@ -1,0 +1,1 @@
+export type NavCaption = 'home' | 'projects' | 'contact';
